@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.sourcelink.json
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\bin\Debug\net8.0\Attestation.exe
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\bin\Debug\net8.0\Attestation.deps.json
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\bin\Debug\net8.0\Attestation.runtimeconfig.json
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\bin\Debug\net8.0\Attestation.dll
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\bin\Debug\net8.0\Attestation.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.dll
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\refint\Attestation.dll
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\Attestation.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Рабочий стол\Homeworks\Attestation\obj\Debug\net8.0\ref\Attestation.dll
